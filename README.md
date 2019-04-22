@@ -1,0 +1,4 @@
+# slotfiy
+PHP, OOP, MySQL, jQuery, Ajax, HTML, CSS
+
+##CREATE PROJECT LIKE SPOTIFY PROJECT
